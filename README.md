@@ -2,7 +2,7 @@
 
 Este repositório contém um pequeno exercício do curso **Desenvolvimento Orientado a Objetos Utilizando a Linguagem Python** da **Escola Virtual - Fundação Bradesco**. 
 
-## Conteúdo do Curso
+## Conteúdo do curso
 
 O curso aborda os seguintes conteúdos:
 
